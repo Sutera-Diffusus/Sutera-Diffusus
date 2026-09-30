@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="236" viewBox="0 0 880 236" role="img" aria-label="SuteraWu — selected work">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#04070d"/>
+      <stop offset="60%" stop-color="#06121d"/>
+      <stop offset="100%" stop-color="#07222c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3ee7f5"/>
+      <stop offset="100%" stop-color="#0e7490"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%" stop-color="#0e7490"/>
+      <stop offset="100%" stop-color="#3ee7f5"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="frame"><rect x="1" y="1" width="878" height="234" rx="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <rect width="880" height="236" fill="url(#bg)"/>
+    <rect x="1" y="1" width="878" height="2.5" fill="url(#accent)"/>
+
+    <text x="40" y="52" font-size="12.5" fill="#5eead4" letter-spacing="4.2">SELECTED WORK</text>
+    <line x1="40" y1="64" x2="840" y2="64" stroke="#0e7490" stroke-opacity="0.35"/>
+
+    <text x="40" y="104" font-size="40" fill="#eef9ff" filter="url(#glow)">141</text>
+    <text x="40" y="122" font-size="10" fill="#64748b" letter-spacing="1.6">STARS</text>
+    <text x="188" y="104" font-size="40" fill="#eef9ff" filter="url(#glow)">6</text>
+    <text x="188" y="122" font-size="10" fill="#64748b" letter-spacing="1.6">REPOSITORIES</text>
+    <text x="360" y="104" font-size="40" fill="#eef9ff" filter="url(#glow)">12</text>
+    <text x="360" y="122" font-size="10" fill="#64748b" letter-spacing="1.6">MERGED ELSEWHERE</text>
+
+    <text x="600" y="96" font-size="11" fill="#475569" letter-spacing="1.4">MOST-STARRED</text>
+        <text x="600" y="120" font-size="11.5" fill="#94a3b8">dsh-whale-musume</text>
+    <rect x="742" y="112" width="98" height="6" rx="3" fill="#0e7490" opacity="0.14"/>
+    <rect x="742" y="112" width="98" height="6" rx="3" fill="url(#bar)">
+      <animate attributeName="width" values="0;98" dur="0.9s" begin="0.00s" fill="freeze"/>
+    </rect>
+    <text x="600" y="140" font-size="11.5" fill="#94a3b8">WeChat-daily</text>
+    <rect x="742" y="132" width="98" height="6" rx="3" fill="#0e7490" opacity="0.14"/>
+    <rect x="742" y="132" width="32" height="6" rx="3" fill="url(#bar)">
+      <animate attributeName="width" values="0;32" dur="0.9s" begin="0.12s" fill="freeze"/>
+    </rect>
+    <text x="600" y="160" font-size="11.5" fill="#94a3b8">dsh-sandbox-tester</text>
+    <rect x="742" y="152" width="98" height="6" rx="3" fill="#0e7490" opacity="0.14"/>
+    <rect x="742" y="152" width="5" height="6" rx="3" fill="url(#bar)">
+      <animate attributeName="width" values="0;5" dur="0.9s" begin="0.24s" fill="freeze"/>
+    </rect>
+    <text x="600" y="180" font-size="11.5" fill="#94a3b8">dsh-windows-notify</text>
+    <rect x="742" y="172" width="98" height="6" rx="3" fill="#0e7490" opacity="0.14"/>
+    <rect x="742" y="172" width="5" height="6" rx="3" fill="url(#bar)">
+      <animate attributeName="width" values="0;5" dur="0.9s" begin="0.36s" fill="freeze"/>
+    </rect>
+    <text x="600" y="200" font-size="11.5" fill="#94a3b8">metera</text>
+    <rect x="742" y="192" width="98" height="6" rx="3" fill="#0e7490" opacity="0.14"/>
+    <rect x="742" y="192" width="5" height="6" rx="3" fill="url(#bar)">
+      <animate attributeName="width" values="0;5" dur="0.9s" begin="0.48s" fill="freeze"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="878" height="234" rx="10" fill="none" stroke="#0e7490" stroke-opacity="0.6" stroke-width="1.2"/>
+</svg>
