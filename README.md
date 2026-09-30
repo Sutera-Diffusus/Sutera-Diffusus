@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04080f,45:0a1628,100:0e7490&height=240&section=header&text=SuteraWu&fontSize=72&fontColor=e2e8f0&fontAlignY=35&desc=DeepSeek%20Harness%20%C2%B7%20local-first%20desktop%20tools&descSize=18&descAlignY=56&descColor=67e8f9" width="100%" alt="SuteraWu" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:04080f,45:0a1628,100:0e7490&height=240&section=header&text=Sutera%20Wu&fontSize=72&fontColor=e2e8f0&fontAlignY=35&desc=DeepSeek%20Harness%20%C2%B7%20local-first%20desktop%20tools&descSize=18&descAlignY=56&descColor=67e8f9" width="100%" alt="Sutera Wu" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=22D3EE&center=true&vCenter=true&width=820&height=40&lines=Building+plugins+for+DeepSeek+Harness;Local-first+tooling+for+Windows;Small+software+that+stays+out+of+your+way" alt="typing" /></a>
 
@@ -19,10 +19,9 @@
 suterawu@dsh:~$ whoami
 ```
 
-> I build for **DeepSeek Harness** — the parts that make an agent feel like a tool you own:
-> a desktop companion, a status line, native notifications, a sandbox to break things in.
-> Everything local-first. No telemetry, no accounts, no phone-home.
-> And a few Windows utilities that do one job quietly.
+> **Chinese dev building for DeepSeek Harness.** Plugins, extensions and local-first Windows tools —
+> a quiet desktop companion, a status line, native notifications, a sandbox to break things in.
+> Small software that stays out of your way: no telemetry, no accounts, no phone-home.
 
 ---
 
